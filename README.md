@@ -60,5 +60,6 @@ python3 KnightSpy.py
 ```
 
 ## ScreenShot
-![KnightSpy] (KnightSpy.jpg)
+![KnightSpy](https://github.com/snehraval37/KnightSpy/assets/75022475/c9cfcaaf-a131-4a70-9451-2b3aa1f68057)
+
 
