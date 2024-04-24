@@ -60,4 +60,5 @@ python3 KnightSpy.py
 ```
 
 ## ScreenShot
-![KnightSpy]
+![KnightSpy] (KnightSpy.jpg)
+
