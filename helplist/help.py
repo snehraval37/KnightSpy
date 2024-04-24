@@ -98,8 +98,6 @@ def infolist3():
       time.sleep(0.1)
       print (Fore.GREEN+" [*]"+Fore.BLUE+"  Developer : sneh raval :) \n")
       time.sleep(0.1)
-      print (Fore.GREEN+" [*]"+Fore.MAGENTA+" Github Profile  : hackelite01 :)\n")
-      time.sleep(0.1)
       try:
 
             input(Fore.LIGHTRED_EX+" [*]  Back To Menu (Press Enter...) ")
@@ -114,14 +112,6 @@ def infolist4():
     
     print(Fore.GREEN+"  [1]"+Fore.BLUE+"- WordPress ")    
     print(Fore.CYAN+"  **********************")  
-    time.sleep(0.1)
-
-    print(Fore.GREEN+"  [2]"+Fore.BLUE+" - Drupal"+Fore.RED+" Coming Soon . . .")    
-    print(Fore.CYAN+"  **********************") 
-    time.sleep(0.1)
-
-    print(Fore.GREEN+"  [3]"+Fore.BLUE+" - Joomla "+Fore.RED+" Coming Soon . . . ")    
-    print(Fore.CYAN+"  **********************")
     time.sleep(0.1)
 
     print(Fore.GREEN+"  [4]"+Fore.BLUE+" - Back To Menu")   
